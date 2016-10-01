@@ -1,4 +1,4 @@
 # hello-world
 My first repository
 
-test edots are made here
+test edits are made here
